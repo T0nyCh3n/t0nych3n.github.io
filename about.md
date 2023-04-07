@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Coder
+**Potato** is a boy from Hefei who doesn't distinguish n and l, loves **Tomato** from Luoyang who likes to eat noodles.
 
 ### More Information
 
-Love Tomato.
+AI Researcher from [iFLYTEK Co., Ltd.](https://www.xfyun.cn) Hefei, Anhui, China.
 
 ### Contact me
 
