@@ -1,3 +1,3 @@
-# Tony Chen's Blog
+# Potato's Blog
 
-**Tony** is an AI Researcher from iFLYTEK Co., Ltd. Hefei, Anhui, China
+**Potato** is a boy from Hefei who doesn't distinguish n and l, loves **Tomato** from Luoyang who likes to eat noodles
